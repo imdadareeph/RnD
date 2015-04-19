@@ -1,0 +1,2 @@
+place these files under 
+C:\Program Files\NSIS\Include directory
